@@ -2,7 +2,7 @@
 
 CS @ RIT | Technology Intern, EY Korea — Python automation for financial workflows
 
-Outside of work: designing embedded + full-stack systems that translate physiological data into actionable recovery signals
+Outside of work: building wearable tech for athletes, from embedded firmware to the dashboards that turn it into performance insight
 
 ---
 
