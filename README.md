@@ -1,6 +1,7 @@
 # Hi, I'm Tony
 
-CS student at RIT and Technology Intern at EY Korea, building Python automation tools for financial workflows.
+CS @ RIT | Technology Intern, EY Korea — Python automation for financial workflows
+Outside of work: designing embedded + full-stack systems that translate physiological data into actionable recovery signals
 
 ---
 
